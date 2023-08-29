@@ -2,7 +2,7 @@
 
 ---
 
-### Projects
+### A selection of data analytics, data science and machine learning projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
