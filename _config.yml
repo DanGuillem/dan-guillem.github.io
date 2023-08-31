@@ -3,7 +3,12 @@ logo: "/images/Picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Insight Manager with 6 years experience in data gathering, analysis, visualisation and turning data into actionable insight.
   <br><br>
-  Second description 
+  Skills:
+  Python:
+    - Data Cleaning, Analysis and Vizualisation
+    - Web Scraping and APIs
+    - Machine Learning Models
+  SQL
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
