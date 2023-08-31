@@ -1,8 +1,6 @@
-## Portfolio
+## A selection of data analytics, data science and machine learning projects
 
 ---
-
-### A selection of data analytics, data science and machine learning projects
 
 [Predicting Premier League results with Machine Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
