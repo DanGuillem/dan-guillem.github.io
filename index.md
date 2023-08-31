@@ -7,11 +7,13 @@ In this project I built a web scraping tool to collect data on the 2022/23 Premi
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Deep NLP for sentiment towards Alcohol Tax Duty](/pdf/sample_presentation.pdf)
+### [Deep NLP for sentiment towards Alcohol Tax Duty](/pdf/sample_presentation.pdf)
+The Alcohol Duty Impact was announced in March 2023, in this project I've made a NLP model to analyse sentiment.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Movie Recommendation system using Machine Learning](http://example.com/)
+### [Movie Recommendation system using Machine Learning](http://example.com/)
+This model takes a movie as an input and uses a machine learning model to recommend similar movies.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
