@@ -12,6 +12,13 @@ The Alcohol Duty Impact was announced in March 2023, in this project I've made a
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### [SQL / TABLEAU EXAMPLE HERE](/pdf/sample_presentation.pdf)
+SQL / Tableau
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### [Movie Recommendation system using Machine Learning](http://example.com/)
 This model takes a movie as an input and uses a machine learning model to recommend similar movies.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
