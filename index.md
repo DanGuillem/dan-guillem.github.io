@@ -3,6 +3,7 @@
 ---
 
 [Predicting Premier League results with Machine Learning](/sample_page)
+In this project I built a web scraping tool to collect data on the 2022/23 Premier League season to train a predictive ML model.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
