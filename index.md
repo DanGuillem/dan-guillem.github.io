@@ -4,15 +4,15 @@
 
 ### A selection of data analytics, data science and machine learning projects
 
-[Project 1 Title](/sample_page)
+[Predicting Premier League results with Machine Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Deep NLP for sentiment towards Alcohol Tax Duty](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Movie Recommendation system using Machine Learning](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
