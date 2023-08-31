@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     - Machine Learning Models
   SQL
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dan-guillem-601439174/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
