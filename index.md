@@ -4,7 +4,7 @@
 
 ### [Northwind Traders Analysis - SQL / Python / Tableau](/pdf/sample_presentation.pdf)
 I used SQL and Python to analyse the Northwind Traders company database which I logged in a Jupyter Notebook which can be accessed by the link above. I then used the regional sales information to populate an interactive sales dashboard which can be accessed [here](https://public.tableau.com/app/profile/dan.guillem/viz/NWTradersRegionalSalesDashboard/NorthwindTraders-RegionalSalesDashboard?publish=yes). 
-<img src="images/dashboard_screen.png?raw=true"/>
+<img src="images/dashboard_screen_smaller.png?raw=true"/>
 
 ---
 ### [Deep NLP for Sentiment Analysis on Alcohol Duty Tax](/pdf/sample_presentation.pdf)
