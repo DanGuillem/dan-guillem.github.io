@@ -1,4 +1,4 @@
-## A selection of data analytics, data science and machine learning projects
+## A selection of data analytics, engineering and machine learning projects
 
 ---
 
